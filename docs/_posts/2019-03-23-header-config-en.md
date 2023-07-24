@@ -1,7 +1,8 @@
 ---
-category: docs
-tags:
-  - en
+draft: true
+category: draft
+# tags:
+#   - en
 date: 2019-03-23
 title: Header Config
 header-image:
@@ -18,7 +19,7 @@ Detailed guide for header config
 
 > Thanks to [@GalAster](https://github.com/GalAster) for contributions to this post.
 
-![](/assets/img/header-introduce.png)
+![](/assets/img/header-introduce.jpg)
 
 The header bar of the blog can be divided into following sections:
 

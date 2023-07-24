@@ -1,7 +1,8 @@
 ---
-category: demo
-tags:
-  - en
+draft: true
+category: draft
+# tags:
+#   - en
 date: 2019-01-20
 title: Disable Comments
 vssue: false
@@ -17,7 +18,7 @@ Here is the frontmatter of current demo:
 
 ```yaml {7}
 ---
-category: demo
+category: draft
 tags:
   - en
 date: 2019-01-20

@@ -1,8 +1,9 @@
 ---
 top: 1
-category: docs
-tags:
-  - en
+draft: true
+category: draft
+# tags:
+#   - en
 date: 2019-02-27
 title: Theme Guide
 vssue-id: 10
@@ -243,7 +244,7 @@ module.exports = {
       poweredByTheme: true,
 
       // Add your custom footer (HTML supported)
-      custom: 'Copyright 2018-present <a href="https://github.com/meteorlxy" target="_blank">meteorlxy</a> | MIT License',
+      custom: 'Copyright 2023-present <a href="https://github.com/kealanparr" target="_blank">kealanparr</a> | MIT License',
     },
 
     // Info Card Config (Optional)

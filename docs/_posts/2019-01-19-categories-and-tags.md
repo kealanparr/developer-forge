@@ -1,7 +1,8 @@
 ---
-category: demo
-tags:
-  - en
+draft: true
+category: draft
+# tags:
+#   - en
 date: 2019-01-19
 title: Categories and Tags
 vssue-id: 10
@@ -15,7 +16,7 @@ Set `category` and `tags` in the frontmatter of the post:
 
 ```yaml {2-4}
 ---
-category: demo
+category: draft
 tags:
   - en
 date: 2019-01-19
