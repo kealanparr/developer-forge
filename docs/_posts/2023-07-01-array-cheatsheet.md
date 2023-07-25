@@ -5,7 +5,6 @@ tags:
 date: 2023-07-01
 title: Array Cheatsheet
 header-title: true
-vssue-id: 10
 ---
 
 I recently made an array cheat sheet that I think you should check out 😉
