@@ -56,8 +56,8 @@ module.exports = {
 
       sns: {
         github: {
-          account: 'meteorlxy',
-          link: 'https://github.com/meteorlxy',
+          account: 'kealanparr',
+          link: 'https://github.com/kealanparr',
         },
         // facebook: {
         //   account: 'meteorlxy.cn',
@@ -161,7 +161,7 @@ module.exports = {
 
     comments: {
       owner: 'kealanparr',
-      repo: 'personal-site',
+      repo: 'developer-forge',
       clientId: process.env.CLIENT_ID,
       clientSecret: process.env.CLIENT_SECRET,
       autoCreateIssue: true,
