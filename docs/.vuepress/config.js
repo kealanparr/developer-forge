@@ -161,7 +161,7 @@ module.exports = {
 
     comments: {
       owner: 'kealanparr',
-      repo: 'developer-forge',
+      repo: 'developer-forge2',
       clientId: process.env.CLIENT_ID,
       clientSecret: process.env.CLIENT_SECRET,
       autoCreateIssue: true,
