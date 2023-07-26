@@ -159,13 +159,14 @@ module.exports = {
       // @see https://vuepress.github.io/en/plugins/zooming
     },
 
-    comments: {
-      owner: 'kealanparr',
-      repo: 'developer-forge2',
-      clientId: process.env.CLIENT_ID,
-      clientSecret: process.env.CLIENT_SECRET,
-      autoCreateIssue: true,
-    },
+    // comments: {
+    //   owner: 'kealanparr',
+    //   repo: 'developer-forge22',
+    //   clientId: process.env.CLIENT_ID,
+    //   clientSecret: process.env.CLIENT_SECRET,
+    //   autoCreateIssue: true,
+    // },
+    comments: false,
 
     pagination: {
       perPage: 20,

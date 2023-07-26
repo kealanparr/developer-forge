@@ -6,6 +6,11 @@ To refer back to a deployed example, and read the style guide when you need to
 
 - Deployed example can be found here: https://vuepress-theme-meteorlxy.meteorlxy.cn/posts/2019/02/27/theme-guide-en.html
 
+- This template allows you to set up comments if you want to for posts
+- I decided against setting it up
+- I wrote about this more in an article on the site here: /docs/_posts/2023-07-01-how-to-set-up-comments-for-this-theme.md
+- Its just a draft and wont appear on my site
+
 # VuePress Blog Theme - Meteorlxy
 
 [![](https://img.shields.io/circleci/project/github/meteorlxy/vuepress-theme-meteorlxy/master.svg?style=flat)](https://circleci.com/gh/meteorlxy/vuepress-theme-meteorlxy)
