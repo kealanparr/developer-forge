@@ -5,7 +5,6 @@ tags:
 date: 2023-07-01
 title: How To Learn Go
 header-title: true
-vssue-id: 10
 ---
 
 Start with a [Tour of Go](https://go.dev/tour/welcome/1), and solve all the challenges

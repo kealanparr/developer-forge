@@ -4,8 +4,8 @@ tags:
   - improve-as-a-developer
 date: 2023-07-01
 title: What is .gitkeep? How to Track and Push Empty Folders in Git 
-header-title: false
-vssue-id: 10
+header-title: true
+vssue: false
 ---
 
 This article was written on a 3rd party website, and will redirect

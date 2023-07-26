@@ -3,7 +3,6 @@ category: post
 date: 2023-07-01
 title: Make It Work, Make It Right, Make It Fast
 header-title: true
-vssue-id: 10
 ---
 
 # Make It Work, Make It Right, Make It Fast

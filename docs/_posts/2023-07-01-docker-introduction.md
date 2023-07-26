@@ -5,7 +5,6 @@ tags:
 date: 2023-07-01
 title: The Docker Introduction
 header-title: true
-vssue-id: 10
 ---
 
 # The Docker Introduction

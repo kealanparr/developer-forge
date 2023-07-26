@@ -5,7 +5,6 @@ tags:
 date: 2023-07-01
 title: Components of A Great Software Team
 header-title: true
-vssue-id: 10
 ---
 
 I've worked across a few different sectors, teams, tech-stacks etc and started to think about the patterns I think great teams follow.

@@ -5,7 +5,6 @@ tags:
 date: 2023-07-01
 title: How To Learn Kubernetes
 header-title: true
-vssue-id: 10
 ---
 
 Docker is a useful technology to learn before Kubernetes, so I'd start [here](/how-to-learn/docker/)

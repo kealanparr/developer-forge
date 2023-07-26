@@ -4,8 +4,8 @@ tags:
   - typescript
 date: 2023-07-01
 title: Writing a constructor in TypeScript
-header-title: false
-vssue-id: 10
+header-title: true
+vssue: false
 ---
 
 This article was written on a 3rd party website, and will redirect

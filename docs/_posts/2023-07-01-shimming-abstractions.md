@@ -4,8 +4,8 @@ tags:
   - shimming
 date: 2023-07-01
 title: How to Manage Code Dependencies by Shimming Your Abstractions
-header-title: false
-vssue-id: 10
+header-title: true
+vssue: false
 ---
 
 This article was written on a 3rd party website, and will redirect

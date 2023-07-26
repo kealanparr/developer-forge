@@ -5,7 +5,6 @@ tags:
 date: 2023-07-01
 title: How to Group Console Logs
 header-title: true
-vssue-id: 10
 ---
 
 If you need to group console log's together you can use `console.group` like so:

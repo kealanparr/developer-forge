@@ -8,7 +8,6 @@ tags:
 date: 2023-07-01
 title: Imperative, Procedural & Declarative Code
 header-title: true
-vssue-id: 10
 ---
 
 # Imperative, Procedural & Declarative Code

@@ -5,7 +5,6 @@ tags:
 date: 2023-07-01
 title: How to Model Anything
 header-title: true
-vssue-id: 10
 ---
 
 # How to Model Anything

@@ -5,7 +5,6 @@ tags:
 date: 2023-07-01
 title: How To Learn React
 header-title: true
-vssue-id: 10
 ---
 
 I firstly started by reading [this article](https://scotch.io/starters/react/getting-started-with-react-2019-edition)

@@ -5,7 +5,6 @@ tags:
 date: 2023-07-01
 title: What Does The Unicode Consortium Do All Year?
 header-title: true
-vssue-id: 10
 ---
 
 # What Does The Unicode Consortium Do All Year?

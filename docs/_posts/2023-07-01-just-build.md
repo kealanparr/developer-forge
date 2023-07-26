@@ -5,7 +5,6 @@ tags:
 date: 2023-07-01
 title: Just Build
 header-title: true
-vssue-id: 10
 ---
 
 I've worked across different high-performing teams.

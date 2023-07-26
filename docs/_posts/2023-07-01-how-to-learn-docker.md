@@ -5,7 +5,6 @@ tags:
 date: 2023-07-01
 title: How To Learn Docker
 header-title: true
-vssue-id: 10
 ---
 
 Firstly watch [this](https://www.youtube.com/watch?v=iqqDU2crIEQ)

@@ -4,8 +4,8 @@ tags:
   - improve-as-a-developer
 date: 2023-07-01
 title: Programming is Really Hard – But Don't Give Up
-header-title: false
-vssue-id: 10
+header-title: true
+vssue: false
 ---
 
 This article was written on a 3rd party website, and will redirect

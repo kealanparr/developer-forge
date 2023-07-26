@@ -5,7 +5,6 @@ tags:
 date: 2023-07-01
 title: Career Progression Matrices
 header-title: true
-vssue-id: 10
 ---
 
 Discussing how people improve as software engineers is something I really enjoy studying, thinking and reading about.

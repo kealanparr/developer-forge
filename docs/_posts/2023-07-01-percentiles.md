@@ -5,7 +5,6 @@ tags:
 date: 2023-07-01
 title: Percentiles - simply explained
 header-title: true
-vssue-id: 10
 ---
 
 # Percentiles - simply explained

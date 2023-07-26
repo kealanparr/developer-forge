@@ -5,7 +5,6 @@ tags:
 date: 2023-07-01
 title: How to Speak - Patrick Winston (MIT OpenCourse)
 header-title: true
-vssue-id: 10
 ---
  
 **Full talk:** https://www.youtube.com/watch?v=Unzc731iCUY  

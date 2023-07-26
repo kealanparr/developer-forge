@@ -5,7 +5,6 @@ tags:
 date: 2023-07-01
 title: How to Create Object Properties Conditionally From Bools
 header-title: true
-vssue-id: 10
 ---
 
 You can build objects from truthy and falsy values, something like:

@@ -4,8 +4,8 @@ tags:
   - endianness
 date: 2023-07-01
 title: How Google's Technical Writing Course Helped Me Become a Better Writer
-header-title: false
-vssue-id: 10
+header-title: true
+vssue: false
 ---
 
 This article was written on a 3rd party website, and will redirect
