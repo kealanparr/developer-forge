@@ -7,7 +7,9 @@ title: How To Learn Kubernetes
 header-title: true
 ---
 
-Docker is a useful technology to learn before Kubernetes, so I'd start [here](/how-to-learn/docker/)
+Docker is a useful technology to learn before Kubernetes, so I'd start [here](https://developer-forge.com/posts/2023/07/01/how-to-learn-docker.html)
+
+
 
 Firstly, read [this](https://containerjournal.com/topics/container-ecosystems/how-docker-and-kubernetes-work-together)
 

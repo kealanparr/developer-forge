@@ -23,4 +23,4 @@ Read [this article](https://medium.com/@saschagrunert/demystifying-containers-pa
 
 If you are enjoying Docker, and want to learn the next natural progression from here, think about:
 
-- [Kubernetes](/how-to-learn/kubernetes)
+- [Kubernetes](https://developer-forge.com/posts/2023/07/01/how-to-learn-kubernetes.html)
