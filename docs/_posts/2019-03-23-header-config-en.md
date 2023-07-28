@@ -47,6 +47,7 @@ module.exports = {
       { text: 'Posts', link: '/posts/', exact: false },
       { text: 'Custom Pages', link: '/custom-pages/', exact: false },
       { text: 'Github', link: 'https://github.com/meteorlxy/vuepress-theme-meteorlxy' },
+      { text: 'Contact', link: 'https://formsubmit.co/el/cofiya' },
     ],
   },
 }
