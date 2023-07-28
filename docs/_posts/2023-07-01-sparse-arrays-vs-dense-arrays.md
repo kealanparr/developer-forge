@@ -1,5 +1,5 @@
 ---
-category: post
+category: posts
 tags:
   - arrays
 date: 2023-07-01

@@ -1,5 +1,5 @@
 ---
-category: post
+category: posts
 tags:
   - temporal-dead-zone
 date: 2023-07-01

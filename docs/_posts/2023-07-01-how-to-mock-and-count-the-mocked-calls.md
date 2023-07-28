@@ -1,5 +1,5 @@
 ---
-category: snippet
+category: snippets
 tags:
   - jest
   - mock

@@ -1,5 +1,5 @@
 ---
-category: post
+category: posts
 tags:
   - great-teams
 date: 2023-07-01

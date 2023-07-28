@@ -1,5 +1,5 @@
 ---
-category: post
+category: posts
 tags:
   - typescript
 date: 2023-07-01

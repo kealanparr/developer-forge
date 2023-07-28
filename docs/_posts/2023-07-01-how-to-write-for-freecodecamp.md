@@ -1,5 +1,5 @@
 ---
-category: post
+category: posts
 date: 2023-07-01
 title: How to Write for freeCodeCamp News
 header-title: true

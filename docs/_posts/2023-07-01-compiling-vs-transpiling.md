@@ -1,5 +1,5 @@
 ---
-category: post
+category: posts
 tags:
   - compiling
   - transpiling

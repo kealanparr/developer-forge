@@ -1,5 +1,5 @@
 ---
-category: post
+category: posts
 tags:
   - improve-as-a-developer
 date: 2023-07-01

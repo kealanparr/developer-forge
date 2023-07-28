@@ -1,5 +1,5 @@
 ---
-category: snippet
+category: snippets
 tags:
   - javascript
 date: 2023-07-01

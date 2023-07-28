@@ -1,5 +1,5 @@
 ---
-category: post
+category: posts
 tags:
   - functional-programming
 date: 2023-07-01

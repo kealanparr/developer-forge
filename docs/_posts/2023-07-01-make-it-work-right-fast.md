@@ -1,5 +1,5 @@
 ---
-category: post
+category: posts
 date: 2023-07-01
 title: Make It Work, Make It Right, Make It Fast
 header-title: true

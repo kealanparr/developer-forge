@@ -1,5 +1,5 @@
 ---
-category: post
+category: posts
 tags:
   - unicode
 date: 2023-07-01

@@ -1,5 +1,5 @@
 ---
-category: post
+category: posts
 tags:
   - react
   - emoji

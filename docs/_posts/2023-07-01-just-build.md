@@ -1,5 +1,5 @@
 ---
-category: post
+category: posts
 tags:
   - just-build
 date: 2023-07-01
