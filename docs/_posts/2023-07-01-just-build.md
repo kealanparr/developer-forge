@@ -28,7 +28,8 @@ The only thing $NAME had done, was have multiple deployments under his belt and 
  
 This applies to beginners and to people approaching mastery of their craft.
   
-> You'll always hear the same thing said by the very best in every field 'I feel like I'm still learning they'll say. The way you stop fearing faiure is you always assume you have more to learn. Success is about what you get. Craft is what you get to do. - James Clear
+> You'll always hear the same thing said by the very best in every field 'I feel like I'm still learning they'll say. The way you stop fearing faiure is you always assume you have more to learn. Success is about what you get. Craft is what you get to do.  
+> James Clear
  
 ## Nothing new  
  
@@ -44,7 +45,7 @@ But as a beginner, I _hadn't_ heard this, and I'm writing this for Kealan in the
  
 <hr>
  
-> Work hard. I got tenure a year early. Junior faculty members used to say to me: 'Wow, what's your secret?' I said: 'It's pretty simple. Call me any Friday night in my office at 10 o'clock, and I'll tell you.'
+> Work hard. I got tenure a year early. Junior faculty members used to say to me: 'Wow, what's your secret?' I said: 'It's pretty simple. Call me any Friday night in my office at 10 o'clock, and I'll tell you.'  
 > Randy Pausch
  
 <hr>
@@ -69,11 +70,11 @@ If you can get over that hurdle, chances are you can learn to be a great profess
  
 <hr>
  
-> We all want progress. But progress means getting nearer to the place you want to be and if you have taken a wrong turning, then to go forward does not get you any nearer.
-> If you are on the wrong road, progress means doing an about-turn and walking back to the right road; and in that case, the man who turns back soonest is the most progressive man.
-> We have all seen this when we do arithmetic. When I have started a sum the wrong way, the sooner I admit this and go back and start over again, the faster I shall get on.
-> There is nothing progressive about being pigheaded and refusing to admit a mistake.
-> And I think if you look at the present state of the world, it is pretty plain that humanity has been making some big mistakes. We are on the wrong road. And if that is so, we must go back. Going back is the quickest way on.
+> We all want progress. But progress means getting nearer to the place you want to be and if you have taken a wrong turning, then to go forward does not get you any nearer.  
+> If you are on the wrong road, progress means doing an about-turn and walking back to the right road; and in that case, the man who turns back soonest is the most progressive man.  
+> We have all seen this when we do arithmetic. When I have started a sum the wrong way, the sooner I admit this and go back and start over again, the faster I shall get on.  
+> There is nothing progressive about being pigheaded and refusing to admit a mistake.  
+> And I think if you look at the present state of the world, it is pretty plain that humanity has been making some big mistakes. We are on the wrong road. And if that is so, we must go back. Going back is the quickest way on.  
 > C.S. Lewis
  
 <hr>
