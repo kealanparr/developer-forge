@@ -148,7 +148,8 @@ module.exports = {
       // { text: 'Custom Pages', link: '/custom-pages/', exact: false },
       // { text: 'Changelog', link: 'https://github.com/meteorlxy/vuepress-theme-meteorlxy/blob/master/CHANGELOG.md' },
       { text: '30-projects', link: 'https://30-projects.com/' },
-      // { text: 'Github', link: 'https://github.com/meteorlxy/vuepress-theme-meteorlxy' },
+      { text: 'Github', link: 'https://github.com/kealanparr' },
+      { text: 'Contact', link: 'https://formsubmit.co/el/cofiya' },
     ],
 
     // Enable smooth scrolling or not
