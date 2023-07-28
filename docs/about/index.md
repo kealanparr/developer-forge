@@ -4,11 +4,12 @@ title: About
 aside: false
 ---
 
->Fall in love with some activity, and do it! Nobody ever figures out what life is all about, and it doesn't matter... Nearly everything is really interesting if you go into it deeply enough. Work as hard and as much as you want to on the things you like to do the best. <cite>Richard P. Feynman</cite>
+> Fall in love with some activity, and do it! Nobody ever figures out what life is all about, and it doesn't matter... Nearly everything is really interesting if you go into it deeply enough. Work as hard and as much as you want to on the things you like to do the best.  
+<cite>Richard P. Feynman</cite>
 
-Hi, my names **Kealan Parr**. I'm a **Senior Fullstack Developer** at Amberlabs, with five years experience. 
+Hi, my names **Kealan Parr**. I'm a **Senior Fullstack Developer** at Amberlabs, with six years experience. 
 
-A few years ago I was finishing my Biology degree and had to do some basic programming for my Biological data. I ended up more interested in programming than collecting the biological data.
+A few years ago I was finishing my Biology degree and had to do some basic programming for my Biological data. I ended up more interested in the programming than collecting the biological data.
 
 I knew I had to side step into coding.
 
@@ -29,7 +30,7 @@ The languages I know and love are: JavaScript/TypeScript, React, go, Node and Sw
 
 I have a collection of side projects I enjoy doing/did to learn something new:
 - I transcribe images on Reddit, for visually impaired people to ensure images are accessible.
-- I have a profitable side-business where I do consultancy. Primarily writing of technical articles, reviewing of technical articles and software development. My articles have been viewed by more than 300,000 people with a total read time greater than 20,000 hours.
+- I have a profitable side-business where I do consultancy. Primarily writing & reviewing of technical articles and software development. My articles have been viewed by more than 300,000 people with a total read time greater than 20,000 hours.
 - I created a repo called ["Every link I wish I had as a beginner"](https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner)- which details a host of useful links and resources to help less experienced developers. This has a CRON job to run a Node script monthly, to ensure none of the links undergo [link rot](https://en.wikipedia.org/wiki/Link_rot)
 - I made a [basic JavaScript script](https://github.com/kealanparr/Chrome-dino-script.) to automate playing the [offline Chrome dino game](chrome://dino/) (that link only works in Chrome!)
 - I have a [personal site](https://kealanparr.com/) I keep updated with what I'm upto
