@@ -18,7 +18,7 @@ Some things I just had to work out, it's not like "kinda" in the documentation i
 
 # Whats the problem?
 
-If you look in config.js, you can see a commented out object that would make comments work (I think the repository name value will be wrong when I rename this repo)
+If you look in config.js, you can see a commented out object that would make comments work (I think the repository name value will be wrong coz I renamed this repo)
 
 This then uses Vssue to create comments on posts, using 0Auth Tokens from Github.
 
@@ -36,7 +36,7 @@ Firstly, you have to tick "GitHub issues" to be allowed on your repository.
 
 And you also are going to need
 
-1. Homebrew (to make installing things easier, if you're on a mac)
+1. Homebrew (to make installing things easier, if you're on a mac, not a hard requirement just convenience)
 2. A platform to deploy a Node service (Heroku for example)
 
 # what happens

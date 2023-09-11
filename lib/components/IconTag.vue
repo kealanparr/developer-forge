@@ -58,7 +58,7 @@ $fontSize = 1rem
   line-height $fontSize
   padding $gutter $gutter * 1.5
   color lighten($grayTextColor, 10%)
-  background-color #fff
+  background-color #0d1116
   transition color 0.2s ease-out
   &:hover
     cursor pointer
