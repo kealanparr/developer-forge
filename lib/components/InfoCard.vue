@@ -2,7 +2,6 @@
   <div class="info-card">
     <div
       class="info-card-header"
-      :style="headerStyle"
     >
       <img
         class="info-avatar"
@@ -177,7 +176,7 @@ $avatarHeight = 120px
     font-weight normal
   .info-card-header
     height $headerBgHeight
-    margin-bottom $avatarHeight * 0.5
+    margin-bottom (($avatarHeight * 0.5) - 45px)
     border-top-left-radius 5px
     border-top-right-radius 5px
     .info-avatar
@@ -188,7 +187,7 @@ $avatarHeight = 120px
       border 3px solid #fff
       border-radius 50%
       box-shadow: 0 0 2px alpha(black, 0.2)
-      transform translateY($headerBgHeight - $avatarHeight * 0.5)
+      transform translateY(($headerBgHeight - $avatarHeight * 0.5) - 60px)
   .info-card-body
     cursor default
     padding 1rem
