@@ -7,7 +7,7 @@ title: How to log in a Nunjucks file
 header-title: true
 ---
 
-Just remember to put this inside a block like {{ bodyContent }} etc
+Just remember to put this inside a block like \{\{ bodyContent \}\} etc
 
 So that it will be included in the page
 
