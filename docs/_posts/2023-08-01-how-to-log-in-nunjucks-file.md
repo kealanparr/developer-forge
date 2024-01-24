@@ -7,5 +7,6 @@ title: How to log in a Nunjucks file
 header-title: true
 ---
 
+Test
 `{{ payload | dump }}`
 `{{ error   | dump }}`
