@@ -7,6 +7,11 @@ title: How to log in a Nunjucks file
 header-title: true
 ---
 
-Test
-`{{ payload | dump }}`
-`{{ error   | dump }}`
+Just remember to put this inside a block like {{ bodyContent }} etc
+
+So that it will be included in the page
+
+```javascript
+{{ payload | dump }}
+{{ error   | dump }}
+```
