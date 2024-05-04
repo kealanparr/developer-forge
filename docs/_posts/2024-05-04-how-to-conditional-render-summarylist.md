@@ -3,7 +3,7 @@ category: snippets
 tags:
   - nunjucks
 date: 2024-05-04
-title: How to log in a Nunjucks file
+title: How to conditional render a govukSummaryList
 header-title: true
 ---
 
