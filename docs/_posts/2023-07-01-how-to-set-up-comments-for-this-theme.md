@@ -1,7 +1,7 @@
 ---
 category: draft
 draft: true
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: How To Set Up Comments For This Theme
 header-title: true
 ---

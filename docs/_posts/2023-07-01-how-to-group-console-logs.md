@@ -2,7 +2,8 @@
 category: snippets
 tags:
   - javascript
-date: 2023-07-01
+date: 2023-07-01 
+date: 2023-07-01 
 title: How to Group Console Logs
 header-title: true
 ---

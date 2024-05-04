@@ -2,7 +2,7 @@
 category: posts
 tags:
   - model
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: How to Model Anything
 header-title: true
 ---

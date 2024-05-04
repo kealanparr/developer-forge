@@ -2,7 +2,7 @@
 category: posts
 tags:
   - unicode
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: What Does The Unicode Consortium Do All Year?
 header-title: true
 ---

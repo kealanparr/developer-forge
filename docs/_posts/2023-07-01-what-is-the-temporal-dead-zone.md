@@ -2,7 +2,7 @@
 category: posts
 tags:
   - temporal-dead-zone
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: What is the Temporal Dead Zone (TDZ) in JavaScript?
 header-title: true
 vssue: false

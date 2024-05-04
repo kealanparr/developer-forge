@@ -2,7 +2,7 @@
 category: posts
 tags:
   - object-orientation
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: The Four Pillars of Object-Oriented Programming
 header-title: true
 vssue: false

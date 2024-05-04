@@ -3,7 +3,7 @@ draft: true
 category: draft
 # tags:
 #   - en
-date: 2019-01-19
+date: 2019-01-19 # yy-mm-dd
 title: Categories and Tags
 vssue-id: 10
 ---

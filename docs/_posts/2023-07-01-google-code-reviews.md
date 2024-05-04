@@ -2,7 +2,7 @@
 category: posts
 tags:
   - code-reviews
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: How Google Does Code Reviews – Quality Assurance Tips from Google's Documentation
 header-title: true
 vssue: false

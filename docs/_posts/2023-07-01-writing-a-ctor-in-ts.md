@@ -2,7 +2,7 @@
 category: posts
 tags:
   - typescript
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: Writing a constructor in TypeScript
 header-title: true
 vssue: false

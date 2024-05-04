@@ -2,7 +2,7 @@
 category: posts
 tags:
   - solid
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: Introducing DILOS Principles for JavaScript Code
 header-title: true
 vssue: false

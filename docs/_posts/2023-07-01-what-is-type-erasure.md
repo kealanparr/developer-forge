@@ -2,7 +2,7 @@
 category: posts
 tags:
   - typescript
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: What is Type Erasure in TypeScript?
 header-title: true
 vssue: false

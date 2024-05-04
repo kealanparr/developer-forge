@@ -4,7 +4,7 @@ tags:
   - compiling
   - transpiling
   - typescript
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: Compiling vs Transpiling
 header-title: true
 ---

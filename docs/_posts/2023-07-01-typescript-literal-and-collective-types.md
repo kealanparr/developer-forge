@@ -2,7 +2,7 @@
 category: posts
 tags:
   - typescript
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: TypeScript Literal and Collective Types
 header-title: true
 vssue: false

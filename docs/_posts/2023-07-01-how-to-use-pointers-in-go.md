@@ -3,7 +3,7 @@ category: posts
 tags:
   - go
   - pointers
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: How to use pointers in Go
 header-title: true
 vssue: false

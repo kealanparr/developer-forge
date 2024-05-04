@@ -2,7 +2,7 @@
 category: posts
 tags:
   - feature-flags
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: Code an off-switch
 header-title: true
 vssue: false

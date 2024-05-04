@@ -2,7 +2,7 @@
 category: posts
 tags:
   - eliwih
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: Every Link I Wish I Had When I First Started Coding
 header-title: true
 vssue: false

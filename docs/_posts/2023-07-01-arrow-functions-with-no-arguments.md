@@ -2,7 +2,7 @@
 category: posts
 tags:
   - javascript
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: Arrow Functions With No Arguments Can Use An Underscore _
 header-title: true
 ---

@@ -3,7 +3,7 @@ category: snippets
 tags:
   - jest
   - mock
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: How To Mock A Return and Count The Mocked Calls in Jest
 header-title: true
 ---

@@ -2,7 +2,7 @@
 category: posts
 tags:
   - docker
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: The Docker Introduction
 header-title: true
 ---

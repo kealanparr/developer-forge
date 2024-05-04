@@ -2,7 +2,7 @@
 category: posts
 tags:
   - site-speed
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: Fixing a slow site iteratively
 header-title: true
 vssue: false

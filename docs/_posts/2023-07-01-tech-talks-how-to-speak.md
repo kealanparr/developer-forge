@@ -2,7 +2,7 @@
 category: tech-talks-summarised
 tags:
   - speaking
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: How to Speak - Patrick Winston (MIT OpenCourse)
 header-title: true
 ---

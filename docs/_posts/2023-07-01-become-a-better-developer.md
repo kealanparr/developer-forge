@@ -2,7 +2,7 @@
 category: posts
 tags:
   - improve-as-a-developer
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: How to Become a Better Developer – Tips to Grow Your Coding Skills
 header-title: true
 vssue: false

@@ -2,7 +2,7 @@
 category: posts
 tags:
   - publii
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: Introduction to Publii
 header-title: true
 vssue: false

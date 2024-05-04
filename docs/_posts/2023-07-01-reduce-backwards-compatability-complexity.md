@@ -2,7 +2,7 @@
 category: posts
 tags:
   - backwards-compatibility
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: Reduce Complexity of Backward Compatibility Support on Mobile
 header-title: true
 vssue: false

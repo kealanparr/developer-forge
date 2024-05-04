@@ -2,7 +2,7 @@
 category: posts
 tags:
   - software-postmortem
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: What is a Software Post-Mortem and How Do You Write One?
 header-title: true
 vssue: false

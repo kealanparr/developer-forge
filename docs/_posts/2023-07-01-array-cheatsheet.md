@@ -2,7 +2,7 @@
 category: posts
 tags:
   - array-cheatsheet
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: Array Cheatsheet
 header-title: true
 ---

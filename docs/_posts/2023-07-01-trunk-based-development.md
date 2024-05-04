@@ -2,7 +2,7 @@
 category: posts
 tags:
   - trunk-based-development
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: What is Trunk Based Development? A Different Approach to the Software Development Lifecycle
 header-title: true
 vssue: false

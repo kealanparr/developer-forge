@@ -3,7 +3,7 @@ category: posts
 tags:
   - golang
   - debug
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: Golang Debugging Templates
 header-title: true
 ---

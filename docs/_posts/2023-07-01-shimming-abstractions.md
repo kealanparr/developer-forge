@@ -2,7 +2,7 @@
 category: posts
 tags:
   - shimming
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: How to Manage Code Dependencies by Shimming Your Abstractions
 header-title: true
 vssue: false

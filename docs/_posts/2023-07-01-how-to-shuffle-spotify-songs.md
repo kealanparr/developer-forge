@@ -2,7 +2,7 @@
 category: posts
 tags:
   - spotify
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: How to Completely Shuffle All Your Spotify Liked Songs
 header-title: true
 ---

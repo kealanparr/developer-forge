@@ -2,7 +2,7 @@
 category: posts
 tags:
   - endianness
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: How Google's Technical Writing Course Helped Me Become a Better Writer
 header-title: true
 vssue: false

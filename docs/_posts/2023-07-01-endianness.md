@@ -2,7 +2,7 @@
 category: posts
 tags:
   - endianness
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: What is Endianness? Big-Endian vs Little-Endian Explained with Examples
 header-title: true
 vssue: false

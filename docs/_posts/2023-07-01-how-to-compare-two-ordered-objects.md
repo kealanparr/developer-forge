@@ -2,7 +2,7 @@
 category: snippets
 tags:
   - javascript
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: How To Compare Two Ordered Objects
 header-title: true
 ---

@@ -2,7 +2,7 @@
 category: posts
 tags:
   - functional-programming
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: What is Functional Programming? A Beginner's JavaScript Guide
 header-title: true
 vssue: false

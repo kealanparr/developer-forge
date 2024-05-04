@@ -2,7 +2,7 @@
 category: posts
 tags:
   - tdd
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: Getting Started With Test-Driven Development
 header-title: true
 vssue: false

@@ -2,7 +2,7 @@
 category: posts
 tags:
   - postmortems
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: Postmortem Best Practices
 header-title: true
 vssue: false

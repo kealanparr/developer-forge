@@ -2,7 +2,7 @@
 category: snippets
 tags:
   - jest
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: How To Unit Test A Single File
 header-title: true
 ---

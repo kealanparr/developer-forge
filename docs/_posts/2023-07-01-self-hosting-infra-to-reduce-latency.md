@@ -2,7 +2,7 @@
 category: posts
 tags:
   - self-hosting
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: The Benefits of Self-Hosting Critical Infrastructure to Reduce Latency in Gaming
 header-title: true
 vssue: false

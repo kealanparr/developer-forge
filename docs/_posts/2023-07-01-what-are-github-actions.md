@@ -2,7 +2,7 @@
 category: posts
 tags:
   - github-actions
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: What are GitHub Actions?
 header-title: true
 vssue: false

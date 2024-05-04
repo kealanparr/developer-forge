@@ -2,7 +2,7 @@
 category: posts
 tags:
   - improve-as-a-developer
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: Programming is Really Hard – But Don't Give Up
 header-title: true
 vssue: false

@@ -3,7 +3,7 @@ draft: true
 category: draft
 # tags:
 #   - en
-date: 2019-01-20
+date: 2019-01-20 # yy-mm-dd
 title: Disable Comments
 vssue: false
 ---

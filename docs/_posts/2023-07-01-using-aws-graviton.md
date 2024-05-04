@@ -2,7 +2,7 @@
 category: posts
 tags:
   - aws
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: Using AWS Graviton
 header-title: true
 vssue: false

@@ -2,7 +2,7 @@
 category: posts
 tags:
   - anti-patterns
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: Anti-patterns You Should Avoid in Your Code
 header-title: true
 vssue: false

@@ -1,6 +1,6 @@
 ---
 category: software-principles
-date: 2023-07-28
+date: 2023-07-28 # yy-mm-dd
 title: Bikeshedding
 header-title: true
 vssue: false

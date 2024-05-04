@@ -5,7 +5,7 @@ tags:
   - procedural
   - declarative
   - paradigms
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: Imperative, Procedural & Declarative Code
 header-title: true
 ---

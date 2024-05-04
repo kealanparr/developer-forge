@@ -3,7 +3,7 @@ category: posts
 tags:
   - react
   - emoji
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: Adding emojis to your React app
 header-title: true
 vssue: false

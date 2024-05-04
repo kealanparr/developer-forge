@@ -3,7 +3,7 @@ draft: true
 category: draft
 # tags:
 #   - en
-date: 2019-03-23
+date: 2019-03-23 # yy-mm-dd
 title: Header Config
 header-image:
   - /assets/img/header-image-01.jpg

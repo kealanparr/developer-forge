@@ -2,7 +2,7 @@
 category: posts
 tags:
   - typescript
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: How to pass a TypeScript function as a parameter
 header-title: true
 vssue: false

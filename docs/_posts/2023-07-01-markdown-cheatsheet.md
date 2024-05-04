@@ -2,7 +2,7 @@
 category: posts
 tags:
   - markdown
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: Markdown Cheat Sheet – How to Write Articles in Markdown Language
 header-title: true
 vssue: false

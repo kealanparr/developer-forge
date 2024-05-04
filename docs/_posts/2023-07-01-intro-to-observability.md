@@ -2,7 +2,7 @@
 category: posts
 tags:
   - observability
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: Introduction to observability
 header-title: true
 vssue: false

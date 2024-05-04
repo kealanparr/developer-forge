@@ -2,7 +2,7 @@
 category: posts
 tags:
   - devops
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: 6 DevOps automation techniques to maximize productivity
 header-title: true
 vssue: false

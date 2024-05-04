@@ -1,6 +1,6 @@
 ---
 category: posts
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: Make It Work, Make It Right, Make It Fast
 header-title: true
 ---

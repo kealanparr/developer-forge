@@ -2,7 +2,7 @@
 category: posts
 tags:
   - great-teams
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: Components of A Great Software Team
 header-title: true
 ---

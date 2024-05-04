@@ -2,7 +2,7 @@
 category: posts
 tags:
   - just-build
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: Just Build
 header-title: true
 ---

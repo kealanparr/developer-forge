@@ -2,7 +2,7 @@
 category: how-to-learn
 tags:
   - go
-date: 2023-07-01
+date: 2023-07-01 # yy-mm-dd
 title: How To Learn Go
 header-title: true
 ---
