@@ -2,7 +2,7 @@
 category: snippets
 tags:
   - nunjucks
-date: 2023-08-01
+date: 2023-08-01 # yy-mm-dd
 title: How to log in a Nunjucks file
 header-title: true
 ---

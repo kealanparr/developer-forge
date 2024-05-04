@@ -2,7 +2,7 @@
 category: snippets
 tags:
   - javascript
-date: 2024-02-01
+date: 2024-02-01 # yy-mm-dd
 title: How to pull from your forked uphead
 header-title: true
 ---

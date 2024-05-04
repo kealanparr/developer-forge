@@ -2,7 +2,7 @@
 category: snippets
 tags:
   - nunjucks
-date: 2024-05-04
+date: 2024-05-04 # yy-mm-dd
 title: How to conditional render a govukSummaryList
 header-title: true
 ---
