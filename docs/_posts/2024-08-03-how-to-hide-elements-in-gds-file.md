@@ -3,7 +3,7 @@ category: snippets
 tags:
   - nunjucks
 date: 2024-08-03 # yy-mm-dd
-title: How to hide in GDS
+title: How to hide elements in GDS
 header-title: true
 ---
 
