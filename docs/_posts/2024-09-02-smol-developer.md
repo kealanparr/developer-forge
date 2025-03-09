@@ -5,7 +5,6 @@ tags:
 date: 2024-09-02 # yy-mm-dd
 title: Bootstrap a React app with smol developer
 header-title: true
-vssue: false
 ---
 
 This article was written on a 3rd party website, and will redirect

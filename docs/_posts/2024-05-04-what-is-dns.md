@@ -5,7 +5,6 @@ tags:
 date: 2024-05-04 # yy-mm-dd
 title: What is DNS? Basics for Beginners
 header-title: true
-vssue: false
 ---
 
 This article was written on a 3rd party website, and will redirect

@@ -5,7 +5,6 @@ tags:
 date: 2023-07-01 # yy-mm-dd
 title: Reduce Complexity of Backward Compatibility Support on Mobile
 header-title: true
-vssue: false
 ---
 
 This article was written on a 3rd party website, and will redirect

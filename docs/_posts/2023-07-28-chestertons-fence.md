@@ -3,7 +3,6 @@ category: software-principles
 date: 2023-07-28 # yy-mm-dd
 title: Chesterton's Fence
 header-title: true
-vssue: false
 ---
 
 The normal flow of another developer QA'ing your code is that they read the code, raise any issues they see with you or explain why they think the way you've fixed an issue, is the wrong way.

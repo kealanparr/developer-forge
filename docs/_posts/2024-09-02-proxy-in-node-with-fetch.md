@@ -5,7 +5,6 @@ tags:
 date: 2024-09-02 # yy-mm-dd
 title: How to Use a Proxy in Node Fetch
 header-title: true
-vssue: false
 ---
 
 This article was written on a 3rd party website, and will redirect

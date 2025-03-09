@@ -8,7 +8,7 @@ To refer back to a deployed example, and read the style guide when you need to
 
 - This template allows you to set up comments if you want to for posts
 - I decided against setting it up
-- I wrote about this more in an article on the site here: /docs/_posts/2023-07-01-how-to-set-up-comments-for-this-theme.md
+- I wrote about this more in an article on the site here: /docs/_posts/comments.md
 - Its just a draft and wont appear on my site
 - Its just a reminder to myself
 

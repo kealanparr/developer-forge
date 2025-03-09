@@ -3,7 +3,6 @@ category: software-principles
 date: 2023-07-28 # yy-mm-dd
 title: Bikeshedding
 header-title: true
-vssue: false
 ---
 
 Bikeshedding is when development teams spend too much time on small items that don't really matter, like the color of the bikeshed in your offices.

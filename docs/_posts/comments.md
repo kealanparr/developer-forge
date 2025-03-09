@@ -127,3 +127,22 @@ This is just a libaility
 Im not hosting this
 Its not worth it for the small benefit of comments
 So I put it all in the bin
+
+--
+Now, also it means
+- vssue-id is essentially the issue id on your github where the comment goes
+(if you want to add it manually to a certain page etc), so that gets deleted everywhere
+
+And so does
+
+vssue: false / true
+
+Because its not being used :)
+
+I think where its used in examples to explain how it works etc
+Or what it does
+I will leave these two props
+So it wont be totally 100% gone
+But in my actual posts
+Where I know it isnt even being used anyway
+Im just gonna delete

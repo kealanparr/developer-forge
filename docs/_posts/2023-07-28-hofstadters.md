@@ -3,7 +3,6 @@ category: software-principles
 date: 2023-07-28 # yy-mm-dd
 title: Hofstadter's Law
 header-title: true
-vssue: false
 ---
 Hofstadter’s law is best explained [as](https://en.wikipedia.org/wiki/Hofstadter%27s_law):
 

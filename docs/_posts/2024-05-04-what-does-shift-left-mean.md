@@ -3,7 +3,6 @@ category: posts
 date: 2024-05-04 # yy-mm-dd
 title: What Does "Shift Left" Mean in Software Development?
 header-title: true
-vssue: false
 ---
 
 This article was written on a 3rd party website, and will redirect

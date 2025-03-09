@@ -5,7 +5,6 @@ category: draft
 #   - en
 date: 2019-01-19 # yy-mm-dd
 title: Categories and Tags
-vssue-id: 10
 ---
 
 Demo of how to set categories and tags.
@@ -21,6 +20,5 @@ tags:
   - en
 date: 2019-01-19
 title: Demo of Categories and Tags
-vssue-id: 10
 ---
 ```

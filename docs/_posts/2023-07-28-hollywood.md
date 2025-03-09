@@ -3,7 +3,6 @@ category: software-principles
 date: 2023-07-28 # yy-mm-dd
 title: Hollywood Principle
 header-title: true
-vssue: false
 ---
 
 The Hollywood Principle refers to the often repeated phrase in pop-culture "Don't call us, we'll call you"

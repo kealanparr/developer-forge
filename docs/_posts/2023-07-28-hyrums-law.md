@@ -3,7 +3,6 @@ category: software-principles
 date: 2023-08-09 # yy-mm-dd
 title: Hyrum's Law
 header-title: true
-vssue: false
 ---
 
 Simply, Hyrum's Law is:

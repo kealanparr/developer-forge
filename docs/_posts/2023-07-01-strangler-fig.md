@@ -5,7 +5,6 @@ tags:
 date: 2023-07-01 # yy-mm-dd
 title: What is the Strangler Fig Pattern and How it Helps Manage Legacy Code
 header-title: true
-vssue: false
 ---
 
 This article was written on a 3rd party website, and will redirect

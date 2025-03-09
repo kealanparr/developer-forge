@@ -6,7 +6,6 @@ category: draft
 #   - en
 date: 2019-02-27 # yy-mm-dd
 title: Theme Guide
-vssue-id: 10
 ---
 
 Guide of `vuepress-theme-meteorlxy`.
