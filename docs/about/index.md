@@ -30,7 +30,7 @@ The languages I know and love are: JavaScript/TypeScript, React, go, Node and Sw
 
 I have a collection of side projects I enjoy doing/did to learn something new:
 - I transcribe images on Reddit, for visually impaired people to ensure images are accessible.
-- I have a profitable side-business where I do consultancy. Primarily writing & reviewing of technical articles and software development. My articles have been viewed by more than 300,000 people with a total read time greater than 20,000 hours.
+- I have a profitable side-business where I do consultancy. Primarily writing & reviewing of technical articles and software development. My articles have been viewed by more than 900,000 people with a total read time greater than 40,000 hours.
 - I created a repo called ["Every link I wish I had as a beginner"](https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner)- which details a host of useful links and resources to help less experienced developers. This has a CRON job to run a Node script monthly, to ensure none of the links undergo [link rot](https://en.wikipedia.org/wiki/Link_rot)
 - I made a [basic JavaScript script](https://github.com/kealanparr/Chrome-dino-script.) to automate playing the [offline Chrome dino game](https://chromedino.com/)
 - I have a [personal site](https://kealanparr.com/) I keep updated with what I'm upto
